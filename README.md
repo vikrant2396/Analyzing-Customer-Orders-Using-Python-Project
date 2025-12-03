@@ -4,4 +4,5 @@ In this project, I designed and implemented a complete customer order analysis s
 
 I analyzed customer transactions to classify buyers into high-value, moderate, and low-value segments based on their total spending. I also categorized products, identified the most profitable product categories, extracted frequently purchased items, and calculated category-wise revenue contributions. 
 
-Using loops, conditionals, and set operations, I uncovered key insights such as top customers, cross-category purchase patterns, and popular product segments. This project demonstrates my ability to translate raw order data into meaningful business insights, showcasing strong skills in Python programming, data analysis, problem-solving, and real-world decision-making—key capabilities for roles in data analytics, business intelligence, and e-commerce analysis.
+Using loops, conditionals, and set operations, I uncovered key insights such as top customers, cross-category purchase patterns, and popular product segments. This project demonstrates my ability to translate raw order data into meaningful business insights, showcasing strong skills in Python programming, data analysis, 
+problem-solving, and real-world decision-making—key capabilities for roles in data analytics, business intelligence, and e-commerce analysis.
