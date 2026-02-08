@@ -196,7 +196,7 @@ This project demonstrates:
 4. **Clean Code Practices**: Readable, maintainable, and well-organized code
 5. **Set Operations**: Using sets for efficient data filtering and analysis
 
-## 🔧 Potential Enhancements
+## Potential Enhancements
 
 Future improvements could include:
 
