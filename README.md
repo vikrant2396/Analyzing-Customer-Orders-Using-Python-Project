@@ -14,7 +14,7 @@ A Python-based customer order analytics system that processes customer purchase 
 - [Sample Output](#sample-output)
 - [Code Highlights](#code-highlights)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
